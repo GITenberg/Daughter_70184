@@ -5,6 +5,9 @@ contributor:
     agent_name: EMSH
     gutenberg_agent_id: '55644'
     url: http://www.gutenberg.org/2009/agents/55644
+covers:
+- cover_type: archival
+  image_path: 70184-h/images/cover.jpg
 creator:
   author:
     agent_name: Farmer, Philip José
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33989
     wikipedia: http://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70184#Daughter
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70184'
